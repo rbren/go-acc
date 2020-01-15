@@ -7,4 +7,6 @@ require (
 	github.com/spf13/viper v1.3.2
 )
 
+replace github.com/ory/go-acc => github.com/rbren/go-acc v0.1.1
+
 go 1.13
